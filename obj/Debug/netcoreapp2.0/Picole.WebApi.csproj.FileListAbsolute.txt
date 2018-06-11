@@ -1,0 +1,11 @@
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\bin\Debug\netcoreapp2.0\Picole.WebApi.deps.json
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\bin\Debug\netcoreapp2.0\Picole.WebApi.runtimeconfig.json
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\bin\Debug\netcoreapp2.0\Picole.WebApi.runtimeconfig.dev.json
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\bin\Debug\netcoreapp2.0\Picole.WebApi.dll
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\bin\Debug\netcoreapp2.0\Picole.WebApi.pdb
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\obj\Debug\netcoreapp2.0\Picole.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\obj\Debug\netcoreapp2.0\Picole.WebApi.AssemblyInfoInputs.cache
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\obj\Debug\netcoreapp2.0\Picole.WebApi.AssemblyInfo.cs
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\obj\Debug\netcoreapp2.0\Picole.WebApi.dll
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\obj\Debug\netcoreapp2.0\Picole.WebApi.pdb
+C:\Users\ybori\Documents\Perso\Projects\Picole\Picole.WebApi\obj\Debug\netcoreapp2.0\Picole.WebApi.csprojResolveAssemblyReference.cache
